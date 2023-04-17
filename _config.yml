@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Meng Min"
   avatar           : "images/mengmin.jpeg"
-  bio              : ""
-  location         : "Beijing, China"
+  bio              : "Associate profession at Guangdong University of Technology"
+  location         : "Guangzhou, Guangdong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=YvqMyI8sAAAAJ"
+  email            : "minmeng@gdut.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
