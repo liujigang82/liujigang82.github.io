@@ -21,7 +21,7 @@ redirect_from:
 - 广东省“珠江人才计划”高层次人才   青年百人计划A+类
 - 科研方向：图像处理，机器学习，模式识别，计算机图形学 
 - 发表国际重要期刊和会议论文40余篇，单篇最高引用100余次
-My research interest includes image processing, machine learning, pattern recognition and computer graphics.
+- My research interest includes image processing, machine learning, pattern recognition and computer graphics.
 
 
 # 🔥 News
